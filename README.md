@@ -1,0 +1,2 @@
+# SecueCRTConfig
+SecureCRT config
